@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   id="svg6718"
+   version="1.1"
+   inkscape:version="0.91 r">
+  <defs
+     id="defs6720" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="38.75"
+     inkscape:cy="40.357143"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="661"
+     inkscape:window-height="716"
+     inkscape:window-x="704"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata6723">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-952.36216)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path8351"
+       d="m 37.501274,954.86293 c -19.3004,0 -35.0000006,15.6997 -35.0000006,35 0,19.30047 15.6996006,35.00007 35.0000006,35.00007 8.7517,0 16.7555,-3.2364 22.8984,-8.5644 l 32.834,32.8339 a 2.5004393,2.5004393 0 0 0 3.5352,-3.5371 l -32.8321,-32.832 c 5.3287,-6.1431 8.5645,-14.14827 8.5645,-22.90047 0,-19.3003 -15.6996,-35 -35,-35 z m 0,5 c 16.5982,0 30,13.4019 30,30 0,16.59827 -13.4018,30.00007 -30,30.00007 -16.5982,0 -30.0000001,-13.4018 -30.0000001,-30.00007 0,-16.5981 13.4018001,-30 30.0000001,-30 z m 0,7.5 c -12.3968,0 -22.5,10.1032 -22.5,22.5 a 2.50025,2.50025 0 1 0 5,0 c 0,-9.6946 7.8054,-17.5 17.5,-17.5 a 2.50025,2.50025 0 1 0 0,-5 z"
+       style="color:black;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:black;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:black;solid-opacity:1;fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+  </g>
+</svg>
